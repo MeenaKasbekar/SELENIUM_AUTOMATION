@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/SeleniumProject">
+        <classes>
+            <class name="com.testingrest.ex01_Selenium_Basics.TestSelenium01">
+                <methods>
+                    <include name="test_code"/>
+                    <include name="vwo_login"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+    </listeners>
+</suite>

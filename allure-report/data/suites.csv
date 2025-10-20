@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","21211","verify_text","Default Suite","2025-10-07","passed","2025-10-07","com.testingrest.ex02_Selenium_Basics.TestSelenium_ProjectNo1","SeleniumProject","com.testingrest.ex02_Selenium_Basics.TestSelenium_ProjectNo1","verify_text"
